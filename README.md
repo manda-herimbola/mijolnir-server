@@ -1,2 +1,2 @@
-# mijolnir-serveur
+# mijolnir-server
 it's the mijolnir server
